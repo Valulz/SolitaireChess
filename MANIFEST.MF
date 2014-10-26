@@ -1,0 +1,2 @@
+Main-Class: Controleur
+Class-Path: C:\Java\paquetage\ihmgui
